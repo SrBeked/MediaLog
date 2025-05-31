@@ -1,0 +1,24 @@
+[
+    {
+        "codigo": "pers_683a9ac63d573",
+        "cedula": "001",
+        "foto_url": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/dragon-ball-songokumania-ingresos-1558366299.jpg",
+        "nombre": "Son",
+        "apellido": "Goku",
+        "fecha_nacimiento": "2025-05-09",
+        "sexo": "Masculino",
+        "habilidades": [
+            "el Kamehameha",
+            " el Kaio-Ken",
+            " la teletransportaci\u00f3n",
+            " la percepci\u00f3n del Ki y varias transformaciones Saiyan",
+            " como el Super Saiyan",
+            " Super Saiyan 2",
+            " Super Saiyan 3",
+            " Super Saiyan 4",
+            " Super Saiyan Dios y Super Saiyan Azul"
+        ],
+        "comida_favorita": "Arroz, Carne, Pescado, de to",
+        "obra_codigo": "01"
+    }
+]
